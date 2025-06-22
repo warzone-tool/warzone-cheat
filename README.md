@@ -6,12 +6,12 @@ Whether you're looking to enhance your aim, gain situational awareness, or acces
 
 ---
 
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+[![Join Our Discord](https://img.shields.io/discord/1180734837510897755?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
 
-[![Warzone Cheat](https://github.com/warzone-tool/warzone-cheat/blob/main/Warzone%20Cheat.png)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+[![Warzone Cheat](https://github.com/warzone-tool/warzone-cheat/blob/main/Warzone%20Cheat.png)](https://discord.gg/SfkrK75HNj) 
 
 ## 🔥 What is Warzone Cheat?
-[![Warzone cheat discord server](https://github.com/warzone-tool/warzone-cheat/blob/main/db0a9d0d-d675-4d67-b4e8-1f4e101e83cd.png)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+[![Warzone cheat discord server](https://github.com/warzone-tool/warzone-cheat/blob/main/db0a9d0d-d675-4d67-b4e8-1f4e101e83cd.png)](https://discord.gg/SfkrK75HNj) 
 **Warzone Cheat** is an external enhancement tool for Call of Duty: Warzone. It overlays advanced tactical features on top of the game without modifying the game files directly, keeping your system safer from bans or flags. The tool includes a fully-featured **Warzone aimbot**, enemy ESP, item ESP, wallhacks, and several miscellaneous features like HWID spoofing and no recoil.
 
 Unlike internal cheats, which are riskier due to memory injection, Warzone Cheat runs **externally**, offering low detection rates and high user control. It has been developed and maintained by a team of veteran programmers focused on privacy, customization, and security.
